@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="auth.sms.resend">Қайтадан жіберу</string>
+  <string name="auth.sms.resend_counter_message">%d секунд ішінде SMS кодын қайтадан жібере аласыз</string>
+  <string name="auth.registration.title">Ұялы телефоныңызды енгізіңіз</string>
+  <string name="auth.registration.callCenter">Байланыс орталығына қоңырау шалу</string>
+  <string name="auth.smsValidation.title">SMS растау</string>
+  <string name="auth.smsValidation.enterSmsCode">SMS кодты енгізіңіз</string>
+  <string name="auth.smsValidation.invalidCode">Код дұрыс емес</string>
+  <string name="auth.smsValidation.smsSent">SMS %s нөміріне жіберілді</string>
+  <string name="auth.creditCardInput.title">Карта нөмірін енгізіңіз</string>
+  <string name="auth.creditCardInput.invalidCardNumber">Жарамсыз карта нөмірі</string>
+  <string name="auth.creditCardInput.forgotCardNumber">Картаның нөмірін білмеймін</string>
+  <string name="auth.registration.agreementPrefix">оқыдым жане келистим</string>
+  <string name="auth.registration.agreementText">АҚ ЕБ \"АЛЬФА-БАНК\" жеке тұлғаларға арналған электрондық банк қызметтер қосу келісімдi</string>
+  <string name="transfers.international.onboardingTitle">Халықаралық аударымдар</string>
+  <string name="transfers.international.onboardingDescription">Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%</string>
+  <string name="transfers.international.onboardingButtonTitle">Аударманы жасау</string>
+  <string name="common.further">Келесі</string>
+  <string name="auth.ibanInput.title">Шот нөміріңізді енгізіңіз</string>
+  <string name="auth.ibanInput.errorInvalidIban">Қате шот нөмірі</string>
+</resources>
