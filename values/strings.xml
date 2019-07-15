@@ -17,7 +17,7 @@
   <string name="transfers.international.onboardingDescription">Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%</string>
   <string name="transfers.international.onboardingButtonTitle">Совершить перевод</string>
   <string name="common.further">Далее</string>
-  <string name="auth.ibanInput.title">Введите номер счета</string>
+  <string name="auth.ibanInput.title">Введите номер вашего счета</string>
   <string name="auth.ibanInput.errorInvalidIban">Неверный номер счета</string>
   <plurals name="auth.smsValidation.triesLeft">
     <item quantity="one">Осталась %i попытка</item>

@@ -20,7 +20,7 @@
   <string name="auth.ibanInput.title">Шот нөміріңізді енгізіңіз</string>
   <string name="auth.ibanInput.errorInvalidIban">Қате шот нөмірі</string>
   <plurals name="auth.smsValidation.triesLeft">
-    <item quantity="one">Бір әрекет қалды</item>
-    <item quantity="other">Бір әрекет қалды</item>
+    <item quantity="one">%i әрекет қалды</item>
+    <item quantity="other">%i әрекет қалды</item>
   </plurals>
 </resources>
