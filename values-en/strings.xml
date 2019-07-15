@@ -19,4 +19,8 @@
   <string name="common.further">Next</string>
   <string name="auth.ibanInput.title">Enter account number</string>
   <string name="auth.ibanInput.errorInvalidIban">Invalid account number</string>
+  <plurals name="auth.smsValidation.triesLeft">
+    <item quantity="one">%i try left</item>
+    <item quantity="other">%i tries left</item>
+  </plurals>
 </resources>

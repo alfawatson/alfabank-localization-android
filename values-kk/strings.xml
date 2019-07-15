@@ -19,4 +19,8 @@
   <string name="common.further">Келесі</string>
   <string name="auth.ibanInput.title">Шот нөміріңізді енгізіңіз</string>
   <string name="auth.ibanInput.errorInvalidIban">Қате шот нөмірі</string>
+  <plurals name="auth.smsValidation.triesLeft">
+    <item quantity="one">Бір әрекет қалды</item>
+    <item quantity="other">Бір әрекет қалды</item>
+  </plurals>
 </resources>

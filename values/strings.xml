@@ -19,4 +19,10 @@
   <string name="common.further">Далее</string>
   <string name="auth.ibanInput.title">Введите номер счета</string>
   <string name="auth.ibanInput.errorInvalidIban">Неверный номер счета</string>
+  <plurals name="auth.smsValidation.triesLeft">
+    <item quantity="one">Осталась %i попытка</item>
+    <item quantity="few">Осталось %i попытки</item>
+    <item quantity="many">Осталось %i попыток</item>
+    <item quantity="other">Осталось %i попыток</item>
+  </plurals>
 </resources>
