@@ -1,0 +1,5 @@
+/build
+/src
+build.gradle
+proguard-rules.pro
+alfabank-localization-android.iml
