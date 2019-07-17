@@ -1,3 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">alfabank-localization-android</string>
+  <string name="auth.sms.resend">Отправить заново</string>
+  <string name="auth.sms.resend_counter_message">Повторить отправку можно через\n%d сек</string>
+  <string name="auth.registration.title">Укажите мобильный телефон</string>
+  <string name="auth.registration.callCenter">Позвонить в колл-центр</string>
+  <string name="auth.smsValidation.title">SMS подтверждение</string>
+  <string name="auth.smsValidation.enterSmsCode">Введите код из SMS</string>
+  <string name="auth.smsValidation.invalidCode">Неверный код</string>
+  <string name="auth.smsValidation.smsSent">SMS отправлен на номер %s</string>
+  <string name="auth.creditCardInput.title">Введите номер карты</string>
+  <string name="auth.creditCardInput.invalidCardNumber">Неверный номер карты</string>
+  <string name="auth.creditCardInput.forgotCardNumber">Я не знаю номер карты</string>
+  <string name="auth.registration.agreementPrefix">Я ознакомлен и присоединяюсь к</string>
+  <string name="auth.registration.agreementText">соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»</string>
+  <string name="transfers.international.onboardingTitle">Международные переводы</string>
+  <string name="transfers.international.onboardingDescription">Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%</string>
+  <string name="transfers.international.onboardingButtonTitle">Совершить перевод</string>
+  <string name="common.further">Далее</string>
+  <string name="auth.ibanInput.title">Введите номер вашего счета</string>
+  <string name="auth.ibanInput.errorInvalidIban">Неверный номер счета</string>
+  <plurals name="auth.smsValidation.triesLeft">
+    <item quantity="one">Осталась %i попытка</item>
+    <item quantity="few">Осталось %i попытки</item>
+    <item quantity="many">Осталось %i попыток</item>
+    <item quantity="other">Осталось %i попыток</item>
+  </plurals>
 </resources>
