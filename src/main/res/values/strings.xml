@@ -10,8 +10,8 @@
   <string name="auth.smsValidation.smsSent">SMS отправлен на номер %s</string>
   <string name="auth.creditCardInput.title">Введите номер карты</string>
   <string name="auth.creditCardInput.invalidCardNumber">Неверный номер карты</string>
-  <string name="auth.creditCardInput.forgotCardNumber">Я не знаю номер карты</string>
-  <string name="auth.registration.agreementPrefix">Я ознакомлен и присоединяюсь к</string>
+  <string name="auth.creditCardInput.forgotCardNumber">Не помню номер карты</string>
+  <string name="auth.registration.agreementPrefix">Я подтверждаю что ознакомлен и присоединяюсь к</string>
   <string name="auth.registration.agreementText">соглашению о присоединении к электронным банковским услугам физических лиц АО ДБ «АЛЬФА-БАНК»</string>
   <string name="transfers.international.onboardingTitle">Международные переводы</string>
   <string name="transfers.international.onboardingDescription">Совершай переводы с любой казахстанской карты на карту любого банка мира. Комиссия за перевод от 0,7%%</string>
@@ -25,4 +25,34 @@
     <item quantity="many">Осталось %i попыток</item>
     <item quantity="other">Осталось %i попыток</item>
   </plurals>
+  <string name="auth.smsValidation.incorrectSms">Вы ввели неверный СМС</string>
+  <string name="payments.operationResult.addedToFavorites">Добавлено в Частые</string>
+  <string name="payments.operationResult.toNumber">На номер</string>
+  <string name="payments.operationResult.paymentHistory">История\nплатежей</string>
+  <string name="payments.operationResult.sendReceipt">Отправить\nквитанцию</string>
+  <string name="payments.operationResult.paid">Оплачено</string>
+  <string name="payments.operationResult.invoiceRecept">Квитанция по адресу:\n%s</string>
+  <string name="payments.operationResult.backToPayments">Вернуться в Платежи</string>
+  <string name="payments.operationResult.paymentFailed">Платеж не прошел</string>
+  <string name="payments.operationResult.paymentFailedDescription">Произошел сбой при оплате услуги. Повторите попытку или обратитесь в службу поддержки.</string>
+  <string name="payments.operationResult.retryPayment">Повторить\nплатеж</string>
+  <string name="payments.operationResult.customerSupport">Служба\nподдержки</string>
+  <string name="payments.operationResult.paymentDeclined">Платеж отклонен</string>
+  <string name="payments.operationResult.invalidSmsCodeDescription">Вы ввели неверный СМС код, повторите платеж</string>
+  <string name="auth.pinInput.createPin">Установите код для быстрого входа в приложение</string>
+  <string name="common.cancel">Отмена</string>
+  <string name="auth.pinInput.repeatPin">Подтвердите код</string>
+  <string name="auth.pinInput.login">Вход</string>
+  <string name="auth.pinInput.title">Вход по ПИН-коду</string>
+  <string name="common.call">Вызов</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword">Вам необходимо позвонить в колл-центр \nи получить временный пароль</string>
+  <string name="auth.temporaryPassword.name">Временный пароль</string>
+  <string name="auth.temporaryPassword.callCenterForFree">Позвонить в колл-центр. Бесплатно с мобильного телефона.</string>
+  <string name="payments.invoiceForm.checkInvoice">Проверить квитанцию</string>
+  <string name="payments.invoiceForm.previouslyViewed">Ранее просмотренные</string>
+  <string name="common.error">Ошибка</string>
+  <string name="payments.invoiceForm.serviceSearch">Поиск услуг</string>
+  <string name="banking.applePay.onboardingTitle">Apple Pay — это удобный, безопасный и конфиденциальный способ оплаты покупок</string>
+  <string name="banking.applePay.onboardingMessage">Теперь вы можете пользоваться всеми преимуществами карты Альфа-Банка с Apple Pay на iPhone и Apple Watch</string>
+  <string name="banking.applePay.onboardingButton">Подробнее об Apple Pay</string>
 </resources>

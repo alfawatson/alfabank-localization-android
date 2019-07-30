@@ -10,8 +10,8 @@
   <string name="auth.smsValidation.smsSent">SMS sent to number %s</string>
   <string name="auth.creditCardInput.title">Enter your card number</string>
   <string name="auth.creditCardInput.invalidCardNumber">Invalid card number</string>
-  <string name="auth.creditCardInput.forgotCardNumber">I don\'t know the card number</string>
-  <string name="auth.registration.agreementPrefix">I have read and accept</string>
+  <string name="auth.creditCardInput.forgotCardNumber">I don\'t remember the card number</string>
+  <string name="auth.registration.agreementPrefix">I confirm that I have read and join</string>
   <string name="auth.registration.agreementText">the agreement on enrolling the electronic banking services of \"ALFA-BANK\"</string>
   <string name="transfers.international.onboardingTitle">International Transfers</string>
   <string name="transfers.international.onboardingDescription">Make transfers from any Kazakhstan card to any card worldwide. Transfer commission starting from 0.7%%</string>
@@ -23,4 +23,34 @@
     <item quantity="one">%i try left</item>
     <item quantity="other">%i tries left</item>
   </plurals>
+  <string name="auth.smsValidation.incorrectSms">Invalid SMS code</string>
+  <string name="payments.operationResult.addedToFavorites">Added to Favorites</string>
+  <string name="payments.operationResult.toNumber">To phone number</string>
+  <string name="payments.operationResult.paymentHistory">Payments\nHistory</string>
+  <string name="payments.operationResult.sendReceipt">Send\na receipt</string>
+  <string name="payments.operationResult.paid">Paid</string>
+  <string name="payments.operationResult.invoiceRecept">Receipt for address:\n%s</string>
+  <string name="payments.operationResult.backToPayments">Return to payments</string>
+  <string name="payments.operationResult.paymentFailed">Payment failed</string>
+  <string name="payments.operationResult.paymentFailedDescription">There was an error during the payment. Try again or contact our support team.</string>
+  <string name="payments.operationResult.retryPayment">Retry\npayment</string>
+  <string name="payments.operationResult.customerSupport">Customer\nsupport</string>
+  <string name="payments.operationResult.paymentDeclined">Payment declined</string>
+  <string name="payments.operationResult.invalidSmsCodeDescription">You have entered an incorrect SMS code, retry payment</string>
+  <string name="auth.pinInput.createPin">Set the code to quickly log in to the app</string>
+  <string name="common.cancel">Cancel</string>
+  <string name="auth.pinInput.repeatPin">Confirm code</string>
+  <string name="auth.pinInput.login">Login</string>
+  <string name="auth.pinInput.title">Login by PIN</string>
+  <string name="common.call">Call</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword">You need to call the call center \n and get a temporary password</string>
+  <string name="auth.temporaryPassword.name">Temporary Password</string>
+  <string name="auth.temporaryPassword.callCenterForFree">Call the call center. Free from mobile phone.</string>
+  <string name="payments.invoiceForm.checkInvoice">Check receipt</string>
+  <string name="payments.invoiceForm.previouslyViewed">Previously viewed</string>
+  <string name="common.error">Error</string>
+  <string name="payments.invoiceForm.serviceSearch">Search services</string>
+  <string name="banking.applePay.onboardingTitle">Apple Pay is a convenient, secure and confidential payment option</string>
+  <string name="banking.applePay.onboardingMessage">Now you can enjoy all the benefits of Alfa-Bank card with Apple Pay on iPhone and Apple Watch</string>
+  <string name="banking.applePay.onboardingButton">More on Apple Pay</string>
 </resources>

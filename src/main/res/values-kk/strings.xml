@@ -10,8 +10,8 @@
   <string name="auth.smsValidation.smsSent">SMS %s нөміріне жіберілді</string>
   <string name="auth.creditCardInput.title">Карта нөмірін енгізіңіз</string>
   <string name="auth.creditCardInput.invalidCardNumber">Жарамсыз карта нөмірі</string>
-  <string name="auth.creditCardInput.forgotCardNumber">Картаның нөмірін білмеймін</string>
-  <string name="auth.registration.agreementPrefix">оқыдым жане келистим</string>
+  <string name="auth.creditCardInput.forgotCardNumber">Картаның нөмірі есімде жоқ</string>
+  <string name="auth.registration.agreementPrefix">Оқығанымды және келісетінімді растаймын</string>
   <string name="auth.registration.agreementText">АҚ ЕБ \"АЛЬФА-БАНК\" жеке тұлғаларға арналған электрондық банк қызметтер қосу келісімдi</string>
   <string name="transfers.international.onboardingTitle">Халықаралық аударымдар</string>
   <string name="transfers.international.onboardingDescription">Қазақстандық картадан әлемнің кез-келген банк картасына аударым жасаңыз. Аударым комиссия - 0,7%%</string>
@@ -23,4 +23,34 @@
     <item quantity="one">%i әрекет қалды</item>
     <item quantity="other">%i әрекет қалды</item>
   </plurals>
+  <string name="auth.smsValidation.incorrectSms">Сіз қате SMS енгіздіңіз</string>
+  <string name="payments.operationResult.addedToFavorites">Жиі қойылатын қосылды</string>
+  <string name="payments.operationResult.toNumber">Нөмірге</string>
+  <string name="payments.operationResult.paymentHistory">Төлемдер\nтарихы</string>
+  <string name="payments.operationResult.sendReceipt">Шот\nжіберу</string>
+  <string name="payments.operationResult.paid">Ақылы</string>
+  <string name="payments.operationResult.invoiceRecept">%s\nмекенжай бойынша түбіртек</string>
+  <string name="payments.operationResult.backToPayments">Төлемдерге оралу</string>
+  <string name="payments.operationResult.paymentFailed">Төлем орындалмады</string>
+  <string name="payments.operationResult.paymentFailedDescription">Қызметке ақы төлеу кезінде ақау пайда болды. Әрекетті қайталаңыз немесе қолдау қызметіне хабарласыңыз.</string>
+  <string name="payments.operationResult.retryPayment">Төлемді\nқайталау</string>
+  <string name="payments.operationResult.customerSupport">Қолдау\nқызметі</string>
+  <string name="payments.operationResult.paymentDeclined">Төлем қабылданбады</string>
+  <string name="payments.operationResult.invalidSmsCodeDescription">Сіз қате SMS кодын енгіздіңіз, төлемді қайталаңыз</string>
+  <string name="auth.pinInput.createPin">Қосымшаға кіру үшін кодты орнатыңыз</string>
+  <string name="common.cancel">Болдырмау</string>
+  <string name="auth.pinInput.repeatPin">Кодты қайталаңыз</string>
+  <string name="auth.pinInput.login">Кіру</string>
+  <string name="auth.pinInput.title">PIN-код арқылы кіру</string>
+  <string name="common.call">Шалу</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword">Сізге байланыс орталығына қоңырау шалып, \n уақытша пароль алу керек</string>
+  <string name="auth.temporaryPassword.name">Уақытша пароль</string>
+  <string name="auth.temporaryPassword.callCenterForFree">Байланыс орталығына қоңырау шалыңыз. Ұялы телефоннан тегін.</string>
+  <string name="payments.invoiceForm.checkInvoice">Түбіртекті тексеру</string>
+  <string name="payments.invoiceForm.previouslyViewed">Бұрын қаралған</string>
+  <string name="common.error">Қате</string>
+  <string name="payments.invoiceForm.serviceSearch">Іздеу қызметтері</string>
+  <string name="banking.applePay.onboardingTitle">Apple Pay — ыңғайлы, қауіпсіз және құпия төлеу тәсілі</string>
+  <string name="banking.applePay.onboardingMessage">Apple Pay-мен Сіз Альфа-Банк картаңыздың барлық артықшылықтарын пайдалана аласыз</string>
+  <string name="banking.applePay.onboardingButton">Apple Pay туралы</string>
 </resources>
