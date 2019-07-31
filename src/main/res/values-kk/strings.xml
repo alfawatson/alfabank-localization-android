@@ -53,4 +53,17 @@
   <string name="banking.applePay.onboardingTitle">Apple Pay — ыңғайлы, қауіпсіз және құпия төлеу тәсілі</string>
   <string name="banking.applePay.onboardingMessage">Apple Pay-мен Сіз Альфа-Банк картаңыздың барлық артықшылықтарын пайдалана аласыз</string>
   <string name="banking.applePay.onboardingButton">Apple Pay туралы</string>
+  <string name="payments.common.toPay">Төлемге</string>
+  <string name="payments.common.from">Қайдан</string>
+  <string name="payments.common.pay">Төлеу</string>
+  <string name="payments.invoiceForm.account">Дербес шот</string>
+  <string name="payments.invoiceForm.owner">Иесі</string>
+  <string name="payments.invoiceForm.address">Мекен-жайы</string>
+  <string name="payments.invoiceForm.size">Аудан</string>
+  <string name="payments.invoiceForm.month">Ай</string>
+  <string name="payments.invoiceForm.debt">Қарыз</string>
+  <string name="payments.invoiceForm.overpayment">Артық төлеу</string>
+  <string name="payments.invoiceForm.fine">Айыппұлдар</string>
+  <string name="payments.invoiceForm.recalculation">Қайта есептеу</string>
+  <string name="payments.invoiceForm.invalidAccountNumber">Қате шот нөмірі</string>
 </resources>

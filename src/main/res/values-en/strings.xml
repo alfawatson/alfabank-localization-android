@@ -53,4 +53,17 @@
   <string name="banking.applePay.onboardingTitle">Apple Pay is a convenient, secure and confidential payment option</string>
   <string name="banking.applePay.onboardingMessage">Now you can enjoy all the benefits of Alfa-Bank card with Apple Pay on iPhone and Apple Watch</string>
   <string name="banking.applePay.onboardingButton">More on Apple Pay</string>
+  <string name="payments.common.toPay">To pay</string>
+  <string name="payments.common.from">From</string>
+  <string name="payments.common.pay">Pay</string>
+  <string name="payments.invoiceForm.account">Personal account</string>
+  <string name="payments.invoiceForm.owner">Owner</string>
+  <string name="payments.invoiceForm.address">Address</string>
+  <string name="payments.invoiceForm.size">Size</string>
+  <string name="payments.invoiceForm.month">Month</string>
+  <string name="payments.invoiceForm.debt">Debt</string>
+  <string name="payments.invoiceForm.overpayment">Overpayment</string>
+  <string name="payments.invoiceForm.fine">Fine</string>
+  <string name="payments.invoiceForm.recalculation">Recalculation</string>
+  <string name="payments.invoiceForm.invalidAccountNumber">Invalid account number</string>
 </resources>

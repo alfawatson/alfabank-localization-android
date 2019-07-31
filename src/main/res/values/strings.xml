@@ -55,4 +55,17 @@
   <string name="banking.applePay.onboardingTitle">Apple Pay — это удобный, безопасный и конфиденциальный способ оплаты покупок</string>
   <string name="banking.applePay.onboardingMessage">Теперь вы можете пользоваться всеми преимуществами карты Альфа-Банка с Apple Pay на iPhone и Apple Watch</string>
   <string name="banking.applePay.onboardingButton">Подробнее об Apple Pay</string>
+  <string name="payments.common.toPay">К оплате</string>
+  <string name="payments.common.from">Откуда</string>
+  <string name="payments.common.pay">Оплатить</string>
+  <string name="payments.invoiceForm.account">Лицевой счет</string>
+  <string name="payments.invoiceForm.owner">Владелец</string>
+  <string name="payments.invoiceForm.address">Адрес</string>
+  <string name="payments.invoiceForm.size">Площадь</string>
+  <string name="payments.invoiceForm.month">Месяц</string>
+  <string name="payments.invoiceForm.debt">Задолженность</string>
+  <string name="payments.invoiceForm.overpayment">Переплата</string>
+  <string name="payments.invoiceForm.fine">Пеня</string>
+  <string name="payments.invoiceForm.recalculation">Перерасчет</string>
+  <string name="payments.invoiceForm.invalidAccountNumber">Неверный номер лицевого счета</string>
 </resources>
