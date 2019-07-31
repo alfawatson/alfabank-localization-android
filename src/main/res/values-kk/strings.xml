@@ -66,4 +66,8 @@
   <string name="payments.invoiceForm.fine">Айыппұлдар</string>
   <string name="payments.invoiceForm.recalculation">Қайта есептеу</string>
   <string name="payments.invoiceForm.invalidAccountNumber">Қате шот нөмірі</string>
+  <string name="common.skip">Пропустить</string>
+  <string name="banking.applePay.marketingTitle">Apple Pay Альфа-банкте!</string>
+  <string name="banking.applePay.marketingMessage">Apple Pay көмегімен Сіз онай және тез төлей аласыз</string>
+  <string name="banking.applePay.marketingButton">Apple Pay қосу</string>
 </resources>

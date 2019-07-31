@@ -68,4 +68,8 @@
   <string name="payments.invoiceForm.fine">Пеня</string>
   <string name="payments.invoiceForm.recalculation">Перерасчет</string>
   <string name="payments.invoiceForm.invalidAccountNumber">Неверный номер лицевого счета</string>
+  <string name="common.skip">Пропустить</string>
+  <string name="banking.applePay.marketingTitle">Apple Pay в Альфа Банке!</string>
+  <string name="banking.applePay.marketingMessage">Теперь оплачивать покупки можно просто и быстро с помощью Apple Pay</string>
+  <string name="banking.applePay.marketingButton">Подключить Apple Pay</string>
 </resources>

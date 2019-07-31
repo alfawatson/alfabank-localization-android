@@ -66,4 +66,8 @@
   <string name="payments.invoiceForm.fine">Fine</string>
   <string name="payments.invoiceForm.recalculation">Recalculation</string>
   <string name="payments.invoiceForm.invalidAccountNumber">Invalid account number</string>
+  <string name="common.skip">Пропустить</string>
+  <string name="banking.applePay.marketingTitle">Finally, Apple Pay at Alfa Bank!</string>
+  <string name="banking.applePay.marketingMessage">Experience blazing-fast payment experience using Apple Pay</string>
+  <string name="banking.applePay.marketingButton">Connect Apple Pay</string>
 </resources>
