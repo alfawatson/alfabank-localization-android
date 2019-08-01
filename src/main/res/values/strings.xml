@@ -72,4 +72,7 @@
   <string name="banking.applePay.marketingTitle">Apple Pay в Альфа Банке!</string>
   <string name="banking.applePay.marketingMessage">Теперь оплачивать покупки можно просто и быстро с помощью Apple Pay</string>
   <string name="banking.applePay.marketingButton">Подключить Apple Pay</string>
+  <string name="auth.ibanInput.forgotIbanNumber">Не помню номер счёта</string>
+  <string name="transfers.addCard.senderDescription">Номер карты отправителя</string>
+  <string name="transfers.addCard.recipientDescription">Номер карты получателя</string>
 </resources>

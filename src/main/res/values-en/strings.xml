@@ -70,4 +70,7 @@
   <string name="banking.applePay.marketingTitle">Finally, Apple Pay at Alfa Bank!</string>
   <string name="banking.applePay.marketingMessage">Experience blazing-fast payment experience using Apple Pay</string>
   <string name="banking.applePay.marketingButton">Connect Apple Pay</string>
+  <string name="auth.ibanInput.forgotIbanNumber">I don\'t remember account number</string>
+  <string name="transfers.addCard.senderDescription">Sender\'s card number</string>
+  <string name="transfers.addCard.recipientDescription">Recipient\'s card number</string>
 </resources>

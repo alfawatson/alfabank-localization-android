@@ -70,4 +70,7 @@
   <string name="banking.applePay.marketingTitle">Apple Pay Альфа-банкте!</string>
   <string name="banking.applePay.marketingMessage">Apple Pay көмегімен Сіз онай және тез төлей аласыз</string>
   <string name="banking.applePay.marketingButton">Apple Pay қосу</string>
+  <string name="auth.ibanInput.forgotIbanNumber">Есепшоттың нөмірі есімде жоқ</string>
+  <string name="transfers.addCard.senderDescription">Жіберушінің карта нөмірі</string>
+  <string name="transfers.addCard.recipientDescription">Алушының карта нөмірі</string>
 </resources>
