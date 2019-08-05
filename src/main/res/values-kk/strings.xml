@@ -100,4 +100,5 @@
   <string name="payments.invoiceForm.midRange" formatted="false">%s дан %s дейін</string>
   <string name="payments.invoiceForm.maxRange">%s астам</string>
   <string name="common.information">Информация</string>
+  <string name="transfers.international.noTransactionCallToAction">Картадан әлем банктерінің картасына аударымдар</string>
 </resources>

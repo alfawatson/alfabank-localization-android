@@ -100,4 +100,5 @@
   <string name="payments.invoiceForm.midRange" formatted="false">from %s to %s</string>
   <string name="payments.invoiceForm.maxRange">more than %s</string>
   <string name="common.information">Информация</string>
+  <string name="transfers.international.noTransactionCallToAction">Transfers from card to card of world banks</string>
 </resources>
