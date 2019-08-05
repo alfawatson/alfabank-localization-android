@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="api.auth.users.agreementNotAccepted">The user agreement is not accepted</string>
+  <string name="api.auth.users.wrongSms">Invalid SMS code</string>
+  <string name="api.auth.users.smsExpired">SMS code expired</string>
+  <string name="api.auth.users.alreadyCreated">User already created</string>
+  <string name="api.auth.users.phoneNotFound">User with this phone number does not exist</string>
+  <string name="api.auth.users.userNotFound">User is not found</string>
+  <string name="api.auth.users.wrongAccountNum">Invalid account number</string>
+  <string name="api.auth.users.userAlreadyConfirmed">User has already confirmed</string>
+  <string name="api.auth.users.wrongCardNum">Invalid card number</string>
+  <string name="api.auth.users.serverError">Error</string>
+</resources>
