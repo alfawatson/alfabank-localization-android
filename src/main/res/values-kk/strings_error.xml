@@ -4,5 +4,4 @@
   <string name="api.auth.users.wrongSms">Неверный SMS-код</string>
   <string name="api.auth.users.smsExpired">Срок действия SMS-кода истек</string>
   <string name="api.auth.users.alreadyCreated">Пользователь уже создан</string>
-  <string name="bakin.zhalgas.android">Zhalgas Bakin</string>
 </resources>

@@ -73,4 +73,21 @@
   <string name="auth.ibanInput.forgotIbanNumber">Есепшоттың нөмірі есімде жоқ</string>
   <string name="transfers.addCard.senderDescription">Жіберушінің карта нөмірі</string>
   <string name="transfers.addCard.recipientDescription">Алушының карта нөмірі</string>
+  <string name="payments.bill.statusNew">Платеж в обработке</string>
+  <string name="payments.bill.statusError">Платеж не прошел</string>
+  <string name="payments.bill.statusSuccess">Платеж прошел успешно</string>
+  <string name="payments.bill.noCommission">Комиссия 0 ₸</string>
+  <string name="payments.bill.withCommission">С учетом комиссии</string>
+  <string name="payments.bill.service">Услуга</string>
+  <string name="payments.bill.billNumber">Номер квитанции</string>
+  <string name="payments.bill.date">Дата</string>
+  <string name="payments.bill.sendPdf">Отправить\nквитанцию</string>
+  <string name="payments.bill.addToFrequents">Добавить\nв Частые</string>
+  <string name="payments.bill.repeatPayment">Повторить\nплатеж</string>
+  <string name="payments.bill.fromAccount">Оплачено с</string>
+  <string name="payments.bill.commission">Комиссия</string>
+  <string name="payments.bill.violation">Нарушение</string>
+  <string name="payments.bill.protocolNumber">Номер протокола</string>
+  <string name="common.error.timeout">Время ожидания истекло. Попробуйте еще раз.</string>
+  <string name="common.error.any">Произошла непредвиденная ошибка. Повторите попытку позже. </string>
 </resources>
