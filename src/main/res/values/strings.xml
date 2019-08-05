@@ -92,4 +92,14 @@
   <string name="payments.bill.protocolNumber">Номер протокола</string>
   <string name="common.error.timeout">Время ожидания истекло. Попробуйте еще раз.</string>
   <string name="common.error.any">Произошла непредвиденная ошибка. Повторите попытку позже. </string>
+  <string name="payments.invoiceForm.currentMeterValues">Текущие показания счетчика</string>
+  <string name="payments.invoiceForm.previousMeterValues">Предыдущие показания счетчика</string>
+  <string name="payments.invoiceForm.enteredAmountNote">Сумму к оплате можно изменить</string>
+  <string name="common.continue">Продолжить</string>
+  <string name="payments.invoiceForm.calculation">Расчет</string>
+  <string name="payments.invoiceForm.tariff">тариф %s</string>
+  <string name="payments.invoiceForm.minRange">до %s</string>
+  <string name="payments.invoiceForm.midRange" formatted="false">с %s до %s</string>
+  <string name="payments.invoiceForm.maxRange">более %s</string>
+  <string name="common.information">Информация</string>
 </resources>
