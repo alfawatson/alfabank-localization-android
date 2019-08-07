@@ -101,4 +101,10 @@
   <string name="payments.invoiceForm.maxRange">%s астам</string>
   <string name="common.information">Информация</string>
   <string name="transfers.international.noTransactionCallToAction">Картадан әлем банктерінің картасына аударымдар</string>
+  <string name="payments.invoiceForm.shownOnPaperReceipt">Қағаз түбіртегінде көрсетілген</string>
+  <string name="payments.invoiceForm.noReceiptsFound">Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ</string>
+  <string name="payments.common.newSearch">Жаңа ізденіс</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
 </resources>

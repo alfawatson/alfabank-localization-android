@@ -103,4 +103,10 @@
   <string name="payments.invoiceForm.maxRange">более %s</string>
   <string name="common.information">Информация</string>
   <string name="transfers.international.noTransactionCallToAction">Переводы с карты на карту банков мира</string>
+  <string name="payments.invoiceForm.shownOnPaperReceipt">Указан на бумажной квитанции</string>
+  <string name="payments.invoiceForm.noReceiptsFound">По указанным реквизитам нет неоплаченных квитанций</string>
+  <string name="payments.common.newSearch">Новый поиск</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
 </resources>
