@@ -39,7 +39,7 @@
   <string name="payments.operationResult.customerSupport">Служба\nподдержки</string>
   <string name="payments.operationResult.paymentDeclined">Платеж отклонен</string>
   <string name="payments.operationResult.invalidSmsCodeDescription">Вы ввели неверный СМС код, повторите платеж</string>
-  <string name="auth.pinInput.createPin">Установите код для быстрого входа в приложение</string>
+  <string name="auth.pinInput.createPin">Установите код для быстрого \n входа в приложение</string>
   <string name="common.cancel">Отмена</string>
   <string name="auth.pinInput.repeatPin">Подтвердите код</string>
   <string name="auth.pinInput.login">Вход</string>
@@ -109,4 +109,21 @@
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
   <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
+  <string name="payments.common.confirmAndPay">Подтвердить и оплатить</string>
+  <string name="payments.common.confirmTitle">Подтверждение платежа</string>
+  <string name="payments.common.serviceProvider">Поставщик</string>
+  <string name="payments.drivingFine.checkFines">Проверить штрафы</string>
+  <string name="payments.drivingFine.noFinesFound">Нет новых штрафов</string>
+  <plurals name="payments.drivingFine.finesCount" formatted="false">
+    <item quantity="one">%i штраф на %s</item>
+    <item quantity="few">%i штрафа на %s</item>
+    <item quantity="many">%i штрафов на %s</item>
+    <item quantity="other">%i штрафов на %s</item>
+  </plurals>
+  <string name="payments.invoiceForm.numberOfTenants">Кол-во проживающих</string>
+  <string name="common.fromAccount">Со счета</string>
+  <string name="common.amount">Сумма</string>
+  <string name="common.phoneNumber">Номер телефона</string>
+  <string name="auth.pinInput.passNotEqual">Пароли не совпадают</string>
+  <string name="auth.pinInput.validation.error">Нельзя использовать простые пин коду 1111,2222,1234.</string>
 </resources>

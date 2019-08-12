@@ -11,4 +11,5 @@
   <string name="api.auth.users.wrongCardNum">Неверный номер карты</string>
   <string name="api.auth.users.serverError">Ошибка сервера</string>
   <string name="api.auth.users.removed">Пользователь удален</string>
+  <string name="api.auth.users.noAttempts">Количество попыток исчерпано</string>
 </resources>

@@ -77,7 +77,7 @@
   <string name="payments.bill.statusError">Платеж не прошел</string>
   <string name="payments.bill.statusSuccess">Платеж прошел успешно</string>
   <string name="payments.bill.noCommission">Комиссия 0 ₸</string>
-  <string name="payments.bill.withCommission">С учетом комиссии</string>
+  <string name="payments.bill.withCommission">Комиссиямен</string>
   <string name="payments.bill.service">Услуга</string>
   <string name="payments.bill.billNumber">Номер квитанции</string>
   <string name="payments.bill.date">Дата</string>
@@ -99,7 +99,7 @@
   <string name="payments.invoiceForm.minRange">%s дейін</string>
   <string name="payments.invoiceForm.midRange" formatted="false">%s дан %s дейін</string>
   <string name="payments.invoiceForm.maxRange">%s астам</string>
-  <string name="common.information">Информация</string>
+  <string name="common.information">Ақпарат</string>
   <string name="transfers.international.noTransactionCallToAction">Картадан әлем банктерінің картасына аударымдар</string>
   <string name="payments.invoiceForm.shownOnPaperReceipt">Қағаз түбіртегінде көрсетілген</string>
   <string name="payments.invoiceForm.noReceiptsFound">Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ</string>
@@ -107,4 +107,19 @@
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
   <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
+  <string name="payments.common.confirmAndPay">Растау және төлеу</string>
+  <string name="payments.common.confirmTitle">Төлем растау</string>
+  <string name="payments.common.serviceProvider">Өнім беруші</string>
+  <string name="payments.drivingFine.checkFines">Айыппұлдарды тексеру</string>
+  <string name="payments.drivingFine.noFinesFound">Жаңа айыппұлдар жоқ</string>
+  <plurals name="payments.drivingFine.finesCount" formatted="false">
+    <item quantity="one">%s-ге %i айыппұл бар</item>
+    <item quantity="other">%s-ге %i айыппұл бар</item>
+  </plurals>
+  <string name="payments.invoiceForm.numberOfTenants">Тұрғындар саны</string>
+  <string name="common.fromAccount">Шоттан</string>
+  <string name="common.amount">Сома</string>
+  <string name="common.phoneNumber">Телефон нөмірі</string>
+  <string name="auth.pinInput.passNotEqual">Пароли не совпадают</string>
+  <string name="auth.pinInput.validation.error">Нельзя использовать простые пин коду 1111,2222,1234.</string>
 </resources>

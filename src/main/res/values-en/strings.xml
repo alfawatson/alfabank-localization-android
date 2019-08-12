@@ -76,8 +76,8 @@
   <string name="payments.bill.statusNew">Платеж в обработке</string>
   <string name="payments.bill.statusError">Платеж не прошел</string>
   <string name="payments.bill.statusSuccess">Платеж прошел успешно</string>
-  <string name="payments.bill.noCommission">Комиссия 0 ₸</string>
-  <string name="payments.bill.withCommission">С учетом комиссии</string>
+  <string name="payments.bill.noCommission">No fee</string>
+  <string name="payments.bill.withCommission">Including fee</string>
   <string name="payments.bill.service">Услуга</string>
   <string name="payments.bill.billNumber">Номер квитанции</string>
   <string name="payments.bill.date">Дата</string>
@@ -85,7 +85,7 @@
   <string name="payments.bill.addToFrequents">Добавить\nв Частые</string>
   <string name="payments.bill.repeatPayment">Повторить\nплатеж</string>
   <string name="payments.bill.fromAccount">Оплачено с</string>
-  <string name="payments.bill.commission">Комиссия</string>
+  <string name="payments.bill.commission">Commission</string>
   <string name="payments.bill.violation">Нарушение</string>
   <string name="payments.bill.protocolNumber">Номер протокола</string>
   <string name="common.error.timeout">Время ожидания истекло. Попробуйте еще раз.</string>
@@ -99,7 +99,7 @@
   <string name="payments.invoiceForm.minRange">up to %s</string>
   <string name="payments.invoiceForm.midRange" formatted="false">from %s to %s</string>
   <string name="payments.invoiceForm.maxRange">more than %s</string>
-  <string name="common.information">Информация</string>
+  <string name="common.information">Information</string>
   <string name="transfers.international.noTransactionCallToAction">Transfers from card to card of world banks</string>
   <string name="payments.invoiceForm.shownOnPaperReceipt">Indicated on paper receipt</string>
   <string name="payments.invoiceForm.noReceiptsFound">There are no unpaid receipts for the specified details</string>
@@ -107,4 +107,19 @@
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
   <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
+  <string name="payments.common.confirmAndPay">Confirm and pay</string>
+  <string name="payments.common.confirmTitle">Payment confirmation</string>
+  <string name="payments.common.serviceProvider">Provider</string>
+  <string name="payments.drivingFine.checkFines">Check fines</string>
+  <string name="payments.drivingFine.noFinesFound">No new fines</string>
+  <plurals name="payments.drivingFine.finesCount" formatted="false">
+    <item quantity="one">%i fine for %s</item>
+    <item quantity="other">%i fines for %s</item>
+  </plurals>
+  <string name="payments.invoiceForm.numberOfTenants">Number of residents</string>
+  <string name="common.fromAccount">From account</string>
+  <string name="common.amount">Amount</string>
+  <string name="common.phoneNumber">Phone number</string>
+  <string name="auth.pinInput.passNotEqual">Пароли не совпадают</string>
+  <string name="auth.pinInput.validation.error">Нельзя использовать простые пин коду 1111,2222,1234.</string>
 </resources>
