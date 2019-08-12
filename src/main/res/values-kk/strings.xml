@@ -125,4 +125,11 @@
   <string name="auth.pinInput.repeatPass">Повторите код</string>
   <string name="auth.pinInput.alertDialog.title">Вы действительно хотите выйти?</string>
   <string name="auth.pinInput.alertDialog.mainText">Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. </string>
+  <string name="payments.drivingFine.fio">Аты-жөні</string>
+  <string name="payments.drivingFine.iin">ЖСН</string>
+  <string name="payments.drivingFine.title">Жол жүру айыппұлы</string>
+  <string name="payments.drivingFine.penaltyDate">Бұзушылық күні</string>
+  <string name="payments.drivingFine.protocolNum">Хаттама №</string>
+  <string name="auth.enterPincode.title">Введите код или приложите палец \n для быстрого доступа</string>
+  <string name="auth.enterPincode.wrongPin">Неверный код.\nУ вас осталось %s попытки.</string>
 </resources>
