@@ -126,4 +126,5 @@
   <string name="common.phoneNumber">Номер телефона</string>
   <string name="auth.pinInput.passNotEqual">Пароли не совпадают</string>
   <string name="auth.pinInput.validation.error">Нельзя использовать простые пин коду 1111,2222,1234.</string>
+  <string name="auth.pinInput.repeatPass">Повторите код</string>
 </resources>
