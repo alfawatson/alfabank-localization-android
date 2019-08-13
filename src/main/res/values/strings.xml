@@ -3,7 +3,7 @@
   <string name="auth.sms.resend">Отправить заново</string>
   <string name="auth.sms.resend_counter_message">Повторить отправку можно через\n%d сек</string>
   <string name="auth.registration.title">Укажите мобильный телефон</string>
-  <string name="auth.registration.callCenter">Позвонить в колл-центр</string>
+  <string name="auth.registration.callCenter">Позвонить в Call Center</string>
   <string name="auth.smsValidation.title">SMS подтверждение</string>
   <string name="auth.smsValidation.enterSmsCode">Введите код из SMS</string>
   <string name="auth.smsValidation.invalidCode">Неверный код</string>
@@ -45,9 +45,9 @@
   <string name="auth.pinInput.login">Вход</string>
   <string name="auth.pinInput.title">Вход по ПИН-коду</string>
   <string name="common.call">Вызов</string>
-  <string name="auth.temporaryPassword.getTemporaryPassword">Вам необходимо позвонить в колл-центр \nи получить временный пароль</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword">Вам необходимо позвонить в Call Center \nи получить временный пароль</string>
   <string name="auth.temporaryPassword.name">Временный пароль</string>
-  <string name="auth.temporaryPassword.callCenterForFree">Позвонить в колл-центр. Бесплатно с мобильного телефона.</string>
+  <string name="auth.temporaryPassword.callCenterForFree">Позвонить в Call Center. Бесплатно с мобильного телефона.</string>
   <string name="payments.invoiceForm.checkInvoice">Проверить квитанцию</string>
   <string name="payments.invoiceForm.previouslyViewed">Ранее просмотренные</string>
   <string name="common.error">Ошибка</string>
@@ -107,13 +107,13 @@
   <string name="payments.invoiceForm.noReceiptsFound">По указанным реквизитам нет неоплаченных квитанций</string>
   <string name="payments.common.newSearch">Новый поиск</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
-  <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в Call Center</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
   <string name="payments.common.confirmAndPay">Подтвердить и оплатить</string>
   <string name="payments.common.confirmTitle">Подтверждение платежа</string>
   <string name="payments.common.serviceProvider">Поставщик</string>
   <string name="payments.drivingFine.checkFines">Проверить штрафы</string>
-  <string name="payments.drivingFine.noFinesFound">Нет новых штрафов</string>
+  <string name="payments.drivingFine.noNewFines">Нет новых штрафов</string>
   <plurals name="payments.drivingFine.finesCount" formatted="false">
     <item quantity="one">%i штраф на %s</item>
     <item quantity="few">%i штрафа на %s</item>
@@ -136,4 +136,6 @@
   <string name="payments.drivingFine.protocolNum">№ протокола</string>
   <string name="auth.enterPincode.title">Введите код или приложите палец \n для быстрого доступа</string>
   <string name="auth.enterPincode.wrongPin">Неверный код.\nУ вас осталось %s попытки.</string>
+  <string name="auth.pinInput.noAttempts">Превышено количество попыток</string>
+  <string name="payments.drivingFine.noFinesFound">Нарушений не найдено</string>
 </resources>

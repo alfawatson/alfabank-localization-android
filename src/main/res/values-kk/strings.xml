@@ -105,13 +105,13 @@
   <string name="payments.invoiceForm.noReceiptsFound">Көрсетілген деректемелер үшін төленбеген түбіртектер жоқ</string>
   <string name="payments.common.newSearch">Жаңа ізденіс</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
-  <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в колл-центр</string>
+  <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в Call Center</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
   <string name="payments.common.confirmAndPay">Растау және төлеу</string>
   <string name="payments.common.confirmTitle">Төлем растау</string>
   <string name="payments.common.serviceProvider">Өнім беруші</string>
   <string name="payments.drivingFine.checkFines">Айыппұлдарды тексеру</string>
-  <string name="payments.drivingFine.noFinesFound">Жаңа айыппұлдар жоқ</string>
+  <string name="payments.drivingFine.noNewFines">Жаңа айыппұлдар жоқ</string>
   <plurals name="payments.drivingFine.finesCount" formatted="false">
     <item quantity="one">%s-ге %i айыппұл бар</item>
     <item quantity="other">%s-ге %i айыппұл бар</item>
@@ -132,4 +132,6 @@
   <string name="payments.drivingFine.protocolNum">Хаттама №</string>
   <string name="auth.enterPincode.title">Введите код или приложите палец \n для быстрого доступа</string>
   <string name="auth.enterPincode.wrongPin">Неверный код.\nУ вас осталось %s попытки.</string>
+  <string name="auth.pinInput.noAttempts">Превышено количество попыток</string>
+  <string name="payments.drivingFine.noFinesFound">Бұзушылықтар табылған жоқ</string>
 </resources>
