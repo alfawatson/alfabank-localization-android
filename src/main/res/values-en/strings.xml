@@ -134,4 +134,5 @@
   <string name="auth.enterPincode.wrongPin">Неверный код.\nУ вас осталось %s попытки.</string>
   <string name="auth.pinInput.noAttempts">Превышено количество попыток</string>
   <string name="payments.drivingFine.noFinesFound">No violations found</string>
+  <string name="common.validation.invalidIin">Incorrect IIN entered</string>
 </resources>
