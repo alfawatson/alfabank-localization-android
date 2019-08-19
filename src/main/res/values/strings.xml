@@ -135,8 +135,11 @@
   <string name="payments.drivingFine.penaltyDate">Дата нарушения</string>
   <string name="payments.drivingFine.protocolNum">№ протокола</string>
   <string name="auth.enterPincode.title">Введите код или приложите палец \n для быстрого доступа</string>
-  <string name="auth.enterPincode.wrongPin">Неверный код.\nУ вас осталось %s попытки.</string>
+  <string name="auth.enterPincode.wrongPin">Неверный код.\nУ вас осталось %i попытки.</string>
   <string name="auth.pinInput.noAttempts">Превышено количество попыток</string>
   <string name="payments.drivingFine.noFinesFound">Нарушений не найдено</string>
   <string name="common.validation.invalidIin">Введен неверный ИИН</string>
+  <string name="common.apply">Применить</string>
+  <string name="common.retry">Повторить</string>
+  <string name="payments.common.accounts_empty">Нет доступных счетов</string>
 </resources>
