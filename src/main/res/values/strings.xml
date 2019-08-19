@@ -109,7 +109,7 @@
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
   <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в Call Center</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
-  <string name="a">Подтвердить и оплатить</string>
+  <string name="payments.common.confirmAndPay">Подтвердить и оплатить</string>
   <string name="payments.common.confirmTitle">Подтверждение платежа</string>
   <string name="payments.common.serviceProvider">Поставщик</string>
   <string name="payments.drivingFine.checkFines">Проверить штрафы</string>
