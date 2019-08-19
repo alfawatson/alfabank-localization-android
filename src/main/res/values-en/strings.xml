@@ -107,7 +107,7 @@
   <string name="auth.temporaryPassword.getTemporaryPassword.first">Вам необходимо </string>
   <string name="auth.temporaryPassword.getTemporaryPassword.second">позвонить в Call Center</string>
   <string name="auth.temporaryPassword.getTemporaryPassword.third">и получить временный пароль</string>
-  <string name="payments.common.confirmAndPay">Confirm and pay</string>
+  <string name="a">Confirm and pay</string>
   <string name="payments.common.confirmTitle">Payment confirmation</string>
   <string name="payments.common.serviceProvider">Provider</string>
   <string name="payments.drivingFine.checkFines">Check fines</string>
@@ -138,4 +138,12 @@
   <string name="common.apply">Apply</string>
   <string name="common.retry">Retry</string>
   <string name="payments.common.accounts_empty">Нет доступных счетов</string>
+  <string name="payments.common.error">Что-то пошло не так, попробуйте еще раз</string>
+  <string name="common.phoneNumber.invalid">Неверный номер телефона</string>
+  <string name="payments.mobile.title">Мобильная связь</string>
+  <string name="payments.operationResult.resultInHistory">Результат платежа доступен в истории</string>
+  <string name="payments.operationResult.paid.amount">Оплата %s принята</string>
+  <string name="payments.mobile.operator">Оператор</string>
+  <string name="payments.operationResult.support">Служба поддержки</string>
+  <string name="payments.common.accounts.choose">Выберите счет для оплаты</string>
 </resources>
