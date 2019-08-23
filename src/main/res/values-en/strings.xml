@@ -153,4 +153,6 @@
   <string name="auth.touchInput.touchNotDistinguished">Отпечаток не распознан</string>
   <string name="auth.touchInput.touchConfigChanged">Вход по отпечатку выключен, поскольку изменена конфигурация сканера отпечатков. Для его включения войдите в приложение другим способом и перейдите в настройки.</string>
   <string name="auth.touchInput.touchScanner.error">Ошибка инициализации сканера отпечатка пальца</string>
+  <string name="auth.touchInput.allowTouch">Разрешить вход по отпечатку пальца?</string>
+  <string name="common.allow">Разрешить</string>
 </resources>
