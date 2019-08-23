@@ -121,9 +121,9 @@
   <string name="common.amount">Сома</string>
   <string name="common.phoneNumber">Телефон нөмірі</string>
   <string name="auth.pinInput.passNotEqual">Пароли не совпадают</string>
-  <string name="auth.pinInput.validation.error">Нельзя использовать простые пин коду 1111,2222,1234.</string>
+  <string name="auth.pinInput.validation.error">Нельзя использовать простые комбинации цифр (1111, 2345 и тд.)</string>
   <string name="auth.pinInput.repeatPass">Повторите код</string>
-  <string name="auth.pinInput.alertDialog.title">Вы действительно хотите выйти?</string>
+  <string name="auth.pinInput.alertDialog.title">Шынымен шыққыңыз келе ме?</string>
   <string name="auth.pinInput.alertDialog.mainText">Если вы нажмете на кнопку выйти, вам нужно будет авторизоваться с помощью номера телефона и карты. </string>
   <string name="payments.drivingFine.fio">Аты-жөні</string>
   <string name="payments.drivingFine.iin">ЖСН</string>
@@ -146,4 +146,11 @@
   <string name="payments.mobile.operator">Оператор</string>
   <string name="payments.operationResult.support">Служба поддержки</string>
   <string name="payments.common.accounts.choose">Выберите счет для оплаты</string>
+  <string name="payments.mobile.enterPhoneNumber">Введите номер телефона</string>
+  <string name="payments.mobile.payAmount">Оплатить %s ₸</string>
+  <string name="auth.smsValidation.noAttempts">Количество попыток закончилось. Запросите заново SMS.</string>
+  <string name="auth.touchInput.validation.error">Ошибка при обработке отпечатка пальца</string>
+  <string name="auth.touchInput.touchNotDistinguished">Отпечаток не распознан</string>
+  <string name="auth.touchInput.touchConfigChanged">Вход по отпечатку выключен, поскольку изменена конфигурация сканера отпечатков. Для его включения войдите в приложение другим способом и перейдите в настройки.</string>
+  <string name="auth.touchInput.touchScanner.error">Ошибка инициализации сканера отпечатка пальца</string>
 </resources>
