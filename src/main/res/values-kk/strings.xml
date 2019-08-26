@@ -155,4 +155,13 @@
   <string name="auth.touchInput.touchScanner.error">Ошибка инициализации сканера отпечатка пальца</string>
   <string name="auth.touchInput.allowTouch">Разрешить вход по отпечатку пальца?</string>
   <string name="common.allow">Разрешить</string>
+  <string name="common.yes">Да</string>
+  <string name="common.no">Нет</string>
+  <string name="common.funds.pay">Оплатить</string>
+  <string name="common.funds.send">Перевести</string>
+  <string name="common.funds.withdraw">Пополнить</string>
+  <string name="products.card.activate">Активировать</string>
+  <string name="products.card.status.notActive">Карта не активна</string>
+  <string name="products.card.status.blocked">Карта заблокирована</string>
+  <string name="products.card.unblock">Разблокировать</string>
 </resources>
